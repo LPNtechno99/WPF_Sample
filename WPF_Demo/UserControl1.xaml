@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="WPF_Demo.UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WPF_Demo"
+             mc:Ignorable="d" Width="200" Height="150">
+    <StackPanel>
+        <Border Height="150" Margin="0 10 0 0" Width="auto" Opacity="0.8" CornerRadius="10 10 10 10" BorderThickness="1 1 1 0" Background="{DynamicResource WelcomeBackgroundBrush}" BorderBrush="{DynamicResource BorderBrush}">
+            <Grid>
+                <Rectangle Fill="{DynamicResource Layer_1}" Margin="0,0,0,10"/>
+                <Button Style="{DynamicResource RedButtonStyle}" HorizontalAlignment="Left" Content="Connect" FontSize="20" x:Name="btnOpen" Click="btnOpen_Click" Height="Auto" Margin="41,78,0,32" Width="111"/>
+            </Grid>
+        </Border>
+    </StackPanel>
+</UserControl>
