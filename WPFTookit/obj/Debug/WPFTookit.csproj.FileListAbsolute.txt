@@ -1,0 +1,16 @@
+D:\RAV\Github\Tutorial_WPF\WPFTookit\obj\Debug\WPFTookit.csprojAssemblyReference.cache
+D:\RAV\Github\Tutorial_WPF\WPFTookit\obj\Debug\App.g.cs
+D:\RAV\Github\Tutorial_WPF\WPFTookit\obj\Debug\WPFTookit_MarkupCompile.cache
+D:\RAV\Github\Tutorial_WPF\WPFTookit\bin\Debug\WPFTookit.exe.config
+D:\RAV\Github\Tutorial_WPF\WPFTookit\bin\Debug\WPFTookit.exe
+D:\RAV\Github\Tutorial_WPF\WPFTookit\bin\Debug\WPFTookit.pdb
+D:\RAV\Github\Tutorial_WPF\WPFTookit\obj\Debug\MainWindow.g.cs
+D:\RAV\Github\Tutorial_WPF\WPFTookit\obj\Debug\WPFTookit_MarkupCompile.lref
+D:\RAV\Github\Tutorial_WPF\WPFTookit\obj\Debug\MainWindow.baml
+D:\RAV\Github\Tutorial_WPF\WPFTookit\obj\Debug\WPFTookit.g.resources
+D:\RAV\Github\Tutorial_WPF\WPFTookit\obj\Debug\WPFTookit.Properties.Resources.resources
+D:\RAV\Github\Tutorial_WPF\WPFTookit\obj\Debug\WPFTookit.csproj.GenerateResource.cache
+D:\RAV\Github\Tutorial_WPF\WPFTookit\obj\Debug\WPFTookit.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Tutorial_WPF\WPFTookit\obj\Debug\WPFTookit.csproj.CopyComplete
+D:\RAV\Github\Tutorial_WPF\WPFTookit\obj\Debug\WPFTookit.exe
+D:\RAV\Github\Tutorial_WPF\WPFTookit\obj\Debug\WPFTookit.pdb

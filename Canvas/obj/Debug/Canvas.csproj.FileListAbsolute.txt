@@ -1,0 +1,15 @@
+D:\RAV\Github\Tutorial_WPF\Canvas\bin\Debug\Canvas.exe.config
+D:\RAV\Github\Tutorial_WPF\Canvas\bin\Debug\Canvas.exe
+D:\RAV\Github\Tutorial_WPF\Canvas\bin\Debug\Canvas.pdb
+D:\RAV\Github\Tutorial_WPF\Canvas\obj\Debug\Canvas.csprojAssemblyReference.cache
+D:\RAV\Github\Tutorial_WPF\Canvas\obj\Debug\MainWindow.g.cs
+D:\RAV\Github\Tutorial_WPF\Canvas\obj\Debug\App.g.cs
+D:\RAV\Github\Tutorial_WPF\Canvas\obj\Debug\Canvas_MarkupCompile.cache
+D:\RAV\Github\Tutorial_WPF\Canvas\obj\Debug\Canvas_MarkupCompile.lref
+D:\RAV\Github\Tutorial_WPF\Canvas\obj\Debug\MainWindow.baml
+D:\RAV\Github\Tutorial_WPF\Canvas\obj\Debug\Canvas.g.resources
+D:\RAV\Github\Tutorial_WPF\Canvas\obj\Debug\Canvas.Properties.Resources.resources
+D:\RAV\Github\Tutorial_WPF\Canvas\obj\Debug\Canvas.csproj.GenerateResource.cache
+D:\RAV\Github\Tutorial_WPF\Canvas\obj\Debug\Canvas.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Tutorial_WPF\Canvas\obj\Debug\Canvas.exe
+D:\RAV\Github\Tutorial_WPF\Canvas\obj\Debug\Canvas.pdb

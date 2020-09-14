@@ -1,0 +1,34 @@
+﻿<Window x:Class="WPFTookit.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:my="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+        xmlns:local="clr-namespace:WPFTookit"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="1600" WindowStartupLocation="CenterScreen">
+
+    <Grid>
+        <my:Chart Height="260" Width="380" HorizontalAlignment="Left" Margin="33 0 0 120" Name="ColumnChart1"
+                  Title="Total Marks" VerticalAlignment="Bottom">
+            <my:ColumnSeries DependentValuePath="Value" IndependentValuePath="Key"
+                           ItemsSource="{Binding}" IsSelectionEnabled="True"/>
+        </my:Chart>
+
+        <my:Chart Height="260" Width="380" Margin="434,39,778,120" Name="AreaChart1"
+                  Title="Total Marks" VerticalAlignment="Bottom" HorizontalAlignment="Left">
+            <my:AreaSeries DependentValuePath="Value" IndependentValuePath="Key"
+                           ItemsSource="{Binding}" IsSelectionEnabled="True"/>
+        </my:Chart>
+        <my:Chart Height="260" Width="380" Margin="831,0,0,120" Name="LineChart1"
+                  Title="Total Marks" VerticalAlignment="Bottom" HorizontalAlignment="Left">
+            <my:LineSeries DependentValuePath="Value" IndependentValuePath="Key"
+                           ItemsSource="{Binding}" IsSelectionEnabled="True"/>
+        </my:Chart>
+        <my:Chart Height="260" Width="333" Margin="1239,0,0,120" Name="PieChart1"
+                  Title="Total Marks" VerticalAlignment="Bottom" HorizontalAlignment="Left">
+            <my:PieSeries DependentValuePath="Value" IndependentValuePath="Key"
+                           ItemsSource="{Binding}" IsSelectionEnabled="True"/>
+        </my:Chart>
+    </Grid>
+</Window>

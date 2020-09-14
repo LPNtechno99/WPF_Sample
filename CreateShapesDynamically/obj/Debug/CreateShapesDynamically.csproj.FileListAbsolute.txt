@@ -1,0 +1,15 @@
+D:\RAV\Github\Tutorial_WPF\CreateShapesDynamically\bin\Debug\CreateShapesDynamically.exe.config
+D:\RAV\Github\Tutorial_WPF\CreateShapesDynamically\bin\Debug\CreateShapesDynamically.exe
+D:\RAV\Github\Tutorial_WPF\CreateShapesDynamically\bin\Debug\CreateShapesDynamically.pdb
+D:\RAV\Github\Tutorial_WPF\CreateShapesDynamically\obj\Debug\CreateShapesDynamically.csprojAssemblyReference.cache
+D:\RAV\Github\Tutorial_WPF\CreateShapesDynamically\obj\Debug\MainWindow.g.cs
+D:\RAV\Github\Tutorial_WPF\CreateShapesDynamically\obj\Debug\App.g.cs
+D:\RAV\Github\Tutorial_WPF\CreateShapesDynamically\obj\Debug\CreateShapesDynamically_MarkupCompile.cache
+D:\RAV\Github\Tutorial_WPF\CreateShapesDynamically\obj\Debug\CreateShapesDynamically_MarkupCompile.lref
+D:\RAV\Github\Tutorial_WPF\CreateShapesDynamically\obj\Debug\MainWindow.baml
+D:\RAV\Github\Tutorial_WPF\CreateShapesDynamically\obj\Debug\CreateShapesDynamically.g.resources
+D:\RAV\Github\Tutorial_WPF\CreateShapesDynamically\obj\Debug\CreateShapesDynamically.Properties.Resources.resources
+D:\RAV\Github\Tutorial_WPF\CreateShapesDynamically\obj\Debug\CreateShapesDynamically.csproj.GenerateResource.cache
+D:\RAV\Github\Tutorial_WPF\CreateShapesDynamically\obj\Debug\CreateShapesDynamically.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Tutorial_WPF\CreateShapesDynamically\obj\Debug\CreateShapesDynamically.exe
+D:\RAV\Github\Tutorial_WPF\CreateShapesDynamically\obj\Debug\CreateShapesDynamically.pdb
