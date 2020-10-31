@@ -1,4 +1,3 @@
-D:\RAV\Github\Tutorial_WPF\WPFTookit\obj\Debug\WPFTookit.csprojAssemblyReference.cache
 D:\RAV\Github\Tutorial_WPF\WPFTookit\obj\Debug\App.g.cs
 D:\RAV\Github\Tutorial_WPF\WPFTookit\obj\Debug\WPFTookit_MarkupCompile.cache
 D:\RAV\Github\Tutorial_WPF\WPFTookit\bin\Debug\WPFTookit.exe.config
@@ -14,3 +13,4 @@ D:\RAV\Github\Tutorial_WPF\WPFTookit\obj\Debug\WPFTookit.csproj.CoreCompileInput
 D:\RAV\Github\Tutorial_WPF\WPFTookit\obj\Debug\WPFTookit.csproj.CopyComplete
 D:\RAV\Github\Tutorial_WPF\WPFTookit\obj\Debug\WPFTookit.exe
 D:\RAV\Github\Tutorial_WPF\WPFTookit\obj\Debug\WPFTookit.pdb
+D:\RAV\Github\Tutorial_WPF\WPFTookit\obj\Debug\WPFTookit.csprojAssemblyReference.cache

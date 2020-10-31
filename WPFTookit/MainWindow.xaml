@@ -6,7 +6,7 @@
         xmlns:my="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
         xmlns:local="clr-namespace:WPFTookit"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="1600" WindowStartupLocation="CenterScreen">
+        Title="MainWindow" Height="900" Width="1600" WindowStartupLocation="CenterScreen">
 
     <Grid>
         <my:Chart Height="260" Width="380" HorizontalAlignment="Left" Margin="33 0 0 120" Name="ColumnChart1"
@@ -20,15 +20,39 @@
             <my:AreaSeries DependentValuePath="Value" IndependentValuePath="Key"
                            ItemsSource="{Binding}" IsSelectionEnabled="True"/>
         </my:Chart>
-        <my:Chart Height="260" Width="380" Margin="831,0,0,120" Name="LineChart1"
+        <my:Chart Height="375" Width="1539" Margin="33,0,0,440" Name="LineChart1"
                   Title="Total Marks" VerticalAlignment="Bottom" HorizontalAlignment="Left">
             <my:LineSeries DependentValuePath="Value" IndependentValuePath="Key"
-                           ItemsSource="{Binding}" IsSelectionEnabled="True"/>
+                           ItemsSource="{Binding}" IsSelectionEnabled="True" 
+                           Name="Line1" Background="DarkRed">
+                <my:LineSeries.DataPointStyle>
+                    <Style TargetType="{x:Type my:LineDataPoint}">
+                        <Setter Property="Background" Value="Red"/>
+                        <Setter Property="FontWeight" Value="Bold"/>
+                        <Setter Property="Height" Value="0"/>
+                        <Setter Property="Width" Value="0"/>
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="my:LineDataPoint">
+                                    <Grid x:Name="Root"/>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </my:LineSeries.DataPointStyle>
+            </my:LineSeries>
+            <my:LineSeries DependentValuePath="Value" IndependentValuePath="Key"
+                           ItemsSource="{Binding}" IsSelectionEnabled="True" 
+                           Name="Line2"/>
         </my:Chart>
         <my:Chart Height="260" Width="333" Margin="1239,0,0,120" Name="PieChart1"
                   Title="Total Marks" VerticalAlignment="Bottom" HorizontalAlignment="Left">
             <my:PieSeries DependentValuePath="Value" IndependentValuePath="Key"
-                           ItemsSource="{Binding}" IsSelectionEnabled="True"/>
+                          ItemsSource="{Binding}" DataContext="{Binding}" IsSelectionEnabled="True">
+            </my:PieSeries>
         </my:Chart>
+
+        <Button Width="150" Height="100" FontSize="35" FontWeight="Bold" Click="Button_Click" Margin="975,489,467,280">CLICK</Button>
+        <Button Width="150" Height="100" FontSize="35" FontWeight="Bold" Name="btnCancel" Click="BtnCancel_Click" Margin="975,626,467,143" >CANCEL</Button>
     </Grid>
 </Window>

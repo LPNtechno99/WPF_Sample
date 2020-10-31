@@ -19,3 +19,4 @@ D:\RAV\Github\Tutorial_WPF\WPF_Demo\obj\Debug\GeneratedInternalTypeHelper.g.cs
 D:\RAV\Github\Tutorial_WPF\WPF_Demo\obj\Debug\UserControl1.baml
 D:\RAV\Github\Tutorial_WPF\WPF_Demo\obj\Debug\UserControl2.g.cs
 D:\RAV\Github\Tutorial_WPF\WPF_Demo\obj\Debug\UserControl2.baml
+D:\RAV\Github\Tutorial_WPF\WPF_Demo\obj\Debug\WPF_Demo.csprojAssemblyReference.cache
